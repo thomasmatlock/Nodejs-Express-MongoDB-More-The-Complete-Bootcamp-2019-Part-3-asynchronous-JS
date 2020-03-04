@@ -1,0 +1,22 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomasmatlock/Nodejs-Express-MongoDB-More-The-Complete-Bootcamp-2019-Part-3-asynchronous-JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thomasmatlock/Nodejs-Express-MongoDB-More-The-Complete-Bootcamp-2019-Part-3-asynchronous-JS/issues"
+  },
+  "homepage": "https://github.com/thomasmatlock/Nodejs-Express-MongoDB-More-The-Complete-Bootcamp-2019-Part-3-asynchronous-JS#readme",
+  "dependencies": {
+    "superagent": "^5.2.2"
+  }
+}
